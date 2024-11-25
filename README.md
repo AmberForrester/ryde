@@ -17,10 +17,13 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```
 
 > [!IMPORTANT]
-> Clear the cache to render application changes, not shown:
+> To render application changes not shown, clear the cache using this command:
    ```bash
    npx expo start -c
    ```
+
+Within the terminal use r to reload. 
+
 
 
 
