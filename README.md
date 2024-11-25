@@ -16,6 +16,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
+> [!IMPORTANT]
+> If you notice that making changes doesn't render in your application, clear the cache using this command:
+   ```bash
+   npx expo start -c
+   r
+   ```
 
 
 
