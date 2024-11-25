@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+<h1 align="center">Ryde | Full Stack Uber Clone :blue_car:</h1>
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
