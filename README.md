@@ -22,9 +22,10 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start -c
    ```
 
-Within the terminal use r to reload. 
+Next, within the terminal press r to reload the application. 
 
-
+<br/>
+<br/>
 
 
 
